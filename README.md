@@ -1,7 +1,7 @@
 <PackageNAME>
 ==========
 
-This package ...
+This Repository is just a template for LaTeX packages ...
 
 --------------
 
