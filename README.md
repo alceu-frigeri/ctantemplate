@@ -1,7 +1,12 @@
 <PackageNAME>
 ==========
 
-This Repository is just a template for LaTeX packages ...
+Template for LaTeX packages ...
+
+<PackageDescription>
+
+For more details,  see the documentation,
+[tikzquests.pdf](http://mirrors.ctan.org/macros/latex/contrib/<PackageNAME>/doc/<PackageNAME>.pdf)
 
 --------------
 
