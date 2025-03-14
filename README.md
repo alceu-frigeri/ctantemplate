@@ -6,8 +6,9 @@ Template for LaTeX packages ...
 <PackageDescription>
 
 For more details,  see the documentation,
-[tikzquests.pdf](http://mirrors.ctan.org/macros/latex/contrib/<PackageNAME>/doc/<PackageNAME>.pdf)
-
+[<PackageNAME>.pdf](http://mirrors.ctan.org/macros/latex/contrib/<PackageNAME>/doc/<PackageNAME>.pdf)
+[<PackageNAME>.pdf](http://mirrors.ctan.org/graphics/pgf/contrib/<PackageNAME>/doc/<PackageNAME>.pdf)
+	
 --------------
 
 ## Requirements
@@ -37,7 +38,7 @@ Please do not use the issue page for generic help on how to use the package.
 * git: https://github.com/alceu-frigeri/<PackageNAME>
 
 -------------
-Copyright 2024-present by Alceu Frigeri
+Copyright 2025-present by Alceu Frigeri
 
  This work may be distributed and/or modified under the
  conditions of
