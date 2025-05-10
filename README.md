@@ -68,5 +68,8 @@ The Current Maintainer of this work is Alceu Frigeri
 
 ## Change log
 
-* Version 1.0 (this)
+* Version 1.0a (this)
+    - some typos. added biber template.
+
+* Version 1.0
     - Initial setup.
