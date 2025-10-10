@@ -59,6 +59,7 @@ The Current Maintainer of this work is Alceu Frigeri
 * README.md  (this file)
     - quick introduction
 
+* <PackageNAME>.bib
 * <PackageNAME>.tex
     - package documentation
 * <PackageNAME>.pdf
