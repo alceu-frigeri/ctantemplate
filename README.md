@@ -69,7 +69,10 @@ The Current Maintainer of this work is Alceu Frigeri
 
 ## Change log
 
-* Version 1.0a (this)
+* Version 1.0b (this)
+    - requiring {pkginfo} now.
+
+* Version 1.0a
     - some typos. added biber template.
 
 * Version 1.0
