@@ -68,8 +68,10 @@ The Current Maintainer of this work is Alceu Frigeri
 -------------
 
 ## Change log
+* Version 1.0c (this)
+    - using \pkginfograbProvidesExplPackage
 
-* Version 1.0b (this)
+* Version 1.0b
     - requiring {pkginfo} now.
 
 * Version 1.0a

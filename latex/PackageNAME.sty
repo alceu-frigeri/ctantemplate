@@ -20,20 +20,17 @@
 %%%==============================================================================
 \NeedsTeXFormat{LaTeX2e}[2022/06/01]
 
-\ProvidesExplPackage
-    {<PackageNAME>}
-    {20**/**/**}
-    {*1.0*}
-    {<PackageNAME> <PackageDescription>}
-
 %%%%%%%
 %%%
-%%% Just an attempt at having my packages' info in a regular way
-%%% \pkginfograb_set:nn {<pkg-name>} { props} for each and all.
+%%% Just an attempt at having my package's info in a regular way
+%%%   \pkginfograb_set:nn {<pkg-name>} { props} sets package info
+%%%
+%%%   \pkginfograbProvidesExplPackage {<pkg-name>} { props} sets package info
+%%%     and calls \ProvidesExplPackage
 %%%
 %%%%%%%
 \RequirePackage{pkginfograb}
-\pkginfograb_set:nn { <PackageNAME> }
+\pkginfograbProvidesExplPackage {<PackageNAME>}
   {
      name        = {<PackageNAME>} ,
      prefix      = {<PackageNAME>} ,
